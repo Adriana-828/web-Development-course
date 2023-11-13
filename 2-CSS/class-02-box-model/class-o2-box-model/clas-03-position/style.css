@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.square {
+    width: 80px;
+    height: 80px;
+    background: red;
+    padding: 8px;
+    color: white;
+    #squareX {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+    }
+    
+}
+#squareY {
+    background-color: green;
+position: absolute;
+top: 20px;
+
+}

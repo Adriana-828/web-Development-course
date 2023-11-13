@@ -1,0 +1,51 @@
+h1 {
+    color: red;
+}
+h1 {
+    color: #f2b100;
+    background: #223573;
+    /* border: 2px solid #0027A6; */
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 48px;
+}
+body {
+    background: lightgray;
+    background: url(../../../1-HTML/class-03-medias/challenges/images/img-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 240px;
+    background-position:center;
+    background-attachment: fixed;
+}
+h1{
+    color:peru;
+}
+h2 {
+    color: red;
+}
+#subTítle1{ color: blue;}
+
+.paragraph {
+    color: teal;
+}
+p.paragraph {
+    color: black;
+    font-weight: 400;
+    font-weight: bolder;
+    font-style: italic;
+    letter-spacing: 2px;
+    /*letter-spacing:4px;*/
+    word-spacing: 8px;
+    line-height: 20px;
+    text-transform: capitalize;
+    margin-top: 92px;
+    text-decoration:  line-through blue;
+}
+
+section h2 {
+    font-size: 50px;
+    text-shadow: 1px 1px 1px black;
+}
+section h2 {
+    font-size: 50px;
+}
